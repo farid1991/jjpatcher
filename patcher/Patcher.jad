@@ -1,0 +1,13 @@
+Created-By: 1.6.0_01 (Sun Microsystems Inc.)
+MIDlet-1: Patcher, /icons/Patcher.png, Patcher
+MIDlet-Icon: /icons/Patcher.png
+MIDlet-Jar-Size: 3623
+MIDlet-Jar-URL: patcher.jar
+MIDlet-Name: jjpatcher
+MIDlet-Permissions: javax.microedition.io.PushRegistry
+MIDlet-Push-1: autostart://:, Patcher, *
+MIDlet-Vendor: den_po
+MIDlet-Version: 0.4
+Manifest-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

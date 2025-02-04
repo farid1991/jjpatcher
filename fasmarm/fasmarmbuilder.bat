@@ -1,0 +1,2 @@
+python fasmarmbuilder.py
+pause
