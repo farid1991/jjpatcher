@@ -1,7 +1,7 @@
-Created-By: 1.6.0_01 (Sun Microsystems Inc.)
+Created-By: 1.7.0_60 (Oracle Corporation)
 MIDlet-1: Patcher, /icons/Patcher.png, Patcher
 MIDlet-Icon: /icons/Patcher.png
-MIDlet-Jar-Size: 3623
+MIDlet-Jar-Size: 4246
 MIDlet-Jar-URL: patcher.jar
 MIDlet-Name: jjpatcher
 MIDlet-Permissions: javax.microedition.io.PushRegistry

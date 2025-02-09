@@ -1,5 +1,7 @@
 # A2 Runtime Patcher Build Script
-This batch script automates the process of assembling `arm.bin` payload for `jjpatcher`
+This batch script automates the process of assembling `arm.bin` payload for `jjpatcher`.
+
+`jjpatcher` is java applet to patch **Sony Ericsson A2 firmware**.
 
 ## Features
 - Builds `arm.bin` for multiple targets using **FASMARM**.
