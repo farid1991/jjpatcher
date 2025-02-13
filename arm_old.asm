@@ -1,5 +1,5 @@
 ;arm
-include "%fasminc%\x.inc"
+include "include\x.inc"
 
 macro call ad
 {

@@ -12,10 +12,9 @@
 ;}
 
 ;arm
-;include "%fasminc%\x.inc"
-include "x.inc"
-include "common.inc"
-include "%target%.inc"
+include "include\x.inc"
+include "include\common.inc"
+include "target\%target%.inc"
 
 
 macro call ad
